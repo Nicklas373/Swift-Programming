@@ -1,15 +1,15 @@
 //
-//  Program_Luas_SegitigaTests.swift
-//  Program Luas SegitigaTests
+//  Aplikasi_Penghitung_Nilai_KelulusanTests.swift
+//  Aplikasi Penghitung Nilai KelulusanTests
 //
-//  Created by Matsuura Hana on 3/27/18.
+//  Created by Matsuura Hana on 16/04/18.
 //  Copyright © 2018 Matsuura Hana. All rights reserved.
 //
 
 import XCTest
-@testable import Program_Luas_Segitiga
+@testable import Aplikasi_Penghitung_Nilai_Kelulusan
 
-class Program_Luas_SegitigaTests: XCTestCase {
+class Aplikasi_Penghitung_Nilai_KelulusanTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

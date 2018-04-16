@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Program Luas Segitiga.xcscheme</key>
+		<key>Aplikasi Penghitung Nilai Kelulusan.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>6488CB912069F60B000BB811</key>
+		<key>6444B1282084968A00250516</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6488CBA52069F60B000BB811</key>
+		<key>6444B13C2084968A00250516</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6488CBB02069F60B000BB811</key>
+		<key>6444B1472084968A00250516</key>
 		<dict>
 			<key>primary</key>
 			<true/>

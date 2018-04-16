@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Program Luas Segitiga
+//  Aplikasi Penghitung Nilai Kelulusan
 //
-//  Created by Matsuura Hana on 3/27/18.
+//  Created by Matsuura Hana on 16/04/18.
 //  Copyright © 2018 Matsuura Hana. All rights reserved.
 //
 

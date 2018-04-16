@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6488CB912069F60B000BB811"
-               BuildableName = "Program Luas Segitiga.app"
-               BlueprintName = "Program Luas Segitiga"
-               ReferencedContainer = "container:Program Luas Segitiga.xcodeproj">
+               BlueprintIdentifier = "6444B1282084968A00250516"
+               BuildableName = "Aplikasi Penghitung Nilai Kelulusan.app"
+               BlueprintName = "Aplikasi Penghitung Nilai Kelulusan"
+               ReferencedContainer = "container:Aplikasi Penghitung Nilai Kelulusan.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6488CBA52069F60B000BB811"
-               BuildableName = "Program Luas SegitigaTests.xctest"
-               BlueprintName = "Program Luas SegitigaTests"
-               ReferencedContainer = "container:Program Luas Segitiga.xcodeproj">
+               BlueprintIdentifier = "6444B13C2084968A00250516"
+               BuildableName = "Aplikasi Penghitung Nilai KelulusanTests.xctest"
+               BlueprintName = "Aplikasi Penghitung Nilai KelulusanTests"
+               ReferencedContainer = "container:Aplikasi Penghitung Nilai Kelulusan.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6488CBB02069F60B000BB811"
-               BuildableName = "Program Luas SegitigaUITests.xctest"
-               BlueprintName = "Program Luas SegitigaUITests"
-               ReferencedContainer = "container:Program Luas Segitiga.xcodeproj">
+               BlueprintIdentifier = "6444B1472084968A00250516"
+               BuildableName = "Aplikasi Penghitung Nilai KelulusanUITests.xctest"
+               BlueprintName = "Aplikasi Penghitung Nilai KelulusanUITests"
+               ReferencedContainer = "container:Aplikasi Penghitung Nilai Kelulusan.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6488CB912069F60B000BB811"
-            BuildableName = "Program Luas Segitiga.app"
-            BlueprintName = "Program Luas Segitiga"
-            ReferencedContainer = "container:Program Luas Segitiga.xcodeproj">
+            BlueprintIdentifier = "6444B1282084968A00250516"
+            BuildableName = "Aplikasi Penghitung Nilai Kelulusan.app"
+            BlueprintName = "Aplikasi Penghitung Nilai Kelulusan"
+            ReferencedContainer = "container:Aplikasi Penghitung Nilai Kelulusan.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6488CB912069F60B000BB811"
-            BuildableName = "Program Luas Segitiga.app"
-            BlueprintName = "Program Luas Segitiga"
-            ReferencedContainer = "container:Program Luas Segitiga.xcodeproj">
+            BlueprintIdentifier = "6444B1282084968A00250516"
+            BuildableName = "Aplikasi Penghitung Nilai Kelulusan.app"
+            BlueprintName = "Aplikasi Penghitung Nilai Kelulusan"
+            ReferencedContainer = "container:Aplikasi Penghitung Nilai Kelulusan.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6488CB912069F60B000BB811"
-            BuildableName = "Program Luas Segitiga.app"
-            BlueprintName = "Program Luas Segitiga"
-            ReferencedContainer = "container:Program Luas Segitiga.xcodeproj">
+            BlueprintIdentifier = "6444B1282084968A00250516"
+            BuildableName = "Aplikasi Penghitung Nilai Kelulusan.app"
+            BlueprintName = "Aplikasi Penghitung Nilai Kelulusan"
+            ReferencedContainer = "container:Aplikasi Penghitung Nilai Kelulusan.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
